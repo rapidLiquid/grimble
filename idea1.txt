@@ -1,0 +1,57 @@
+
+
+what will grimble be all about
+------------------------------
+
+a platform / website / webapp - it doesnt matter what we call it, it will have a solid backend
+
+components
+
+-> motivate me -> where people can seek motivation and inspiration
+  -> how ???
+	-> quotes, stoic philosophies, other people experiences
+
+-> post -> people can post anything related to what hurdles they overcame/ their experiences
+	-> every user can have a channel to post the content
+
+-> follow a channel -> people can subscribe to a channel, whenever someone posts something , they will be notified
+
+-> THE ABOVE THINGS ARE SHIT, they can be implemented later on to make it more interactive
+
+THIS IS THE MAIN USE
+
+--------------------
+
+people can write what they feel, there will be options
+like career, relations, and other problems people face in day to day life
+
+lets traverse a topic - career,	
+	some popular posts will be shown, generally most visited posts
+	and additional options on the side will be provided
+	given the option career, what are the keywords of insecurities that are there 
+	the user can write something and we wil try to match the context with the data we have
+	
+The keyword and context will  be abstract, it wil not be related to a specific company
+we will not use common nouns etc but more abstract words etc
+
+like career -> low salary, unbearable boss, unable to find job
+
+the main idea is clear, we will use keywords, questions to narrow down what the user wants to know about
+what is it that he will read that will make him feel less insecure , that might click in his head 
+and give him hope
+
+aim of grimble -> ?????????????????????
+
+to provide solution to the most common problems and hopefully to the more abstract problems
+
+how will we do that , 
+we need web scraping to collect data
+we need text processing to clean the data
+we need to derive meaning out of the data
+ -> on the basis of keywords
+
+we dont care about scale or backend or shit initially
+
+we are a deep abstract algorithmic  company and will develop
+algorithms to solve the most challenging problem,
+understanding human mind and psychology 

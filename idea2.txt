@@ -1,0 +1,39 @@
+
+THE SIMPLE IDEA
+---------------
+
+1. There are different PHILOSOPHERS till date and different philosophies.
+2. There are many people who face the problems and they need solutions, not the exact solution but some approach in a direction.
+3. but we dont care about the second part but the first part
+
+4. Imagine a database of different philosophers and philosophies and their sumamries and highlighted txts i.e. suppose we are deriving tags from a sentence and we need to mark that sentence that what tag it is responsible for.
+5. people can search by philiosophers name, or some philosophical topic OR....
+
+6. The best part is that people can search by some keywords and we hand them the most popular philosophies about that idea.
+7. we can provide the keywords and also IF the keyword is not there, people can search by other ideas and we can match the keywords with our data base of key values that is get the CONTEXT and try to match the nearest word , map that keyword to the existing keywords and put it in the db.
+
+SIMPLY PUT
+----------
+
+1. Search the net for different philosophies and parse them and collect them.
+2. this would be many step process
+
+step1 : scrape the net for philosophical ideas and the philosophers.
+step2 : generate tags from them (data Phil = Phil String Name tags)
+step3 : push them into db
+step4 : create a KG
+
+the above thing would be a background process and the client side application would be a chatbot / search box where people can search keywords
+
+rough design -> search a keyword -> get something and many things AND some other recommended keywords, click and go furhter
+
+simply put, traverse a graph and in the background the graph is dynamically chnaged and used for further suggestions ....
+
+SO GET STARTED ON THE FIRST POINT ...... 
+
+SCRAPER IN HASKELL
+BACKEND in HASKELL
+FRONT END IN PS
+ML in PYTHON
+AND REST EVERYTHING IN HASKELL
+
